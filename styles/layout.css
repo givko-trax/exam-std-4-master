@@ -410,3 +410,28 @@ table a, #comments a{background-color:inherit;}
 #pageintro > article > footer > a{
 	color: silver;
 }
+
+.overlay{
+    background-image:url('../images/demo/backgrounds/01.png');
+}
+
+.first > section > p{
+    text-align: justify;font-family: Comic Sans MS;
+    text-align: justify;font-family: Comic Sans MS;;
+}
+
+.second-paragraph{
+    text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;
+}
+
+#comments ul{
+    background-color: silver;
+}
+
+.first-sdb_holder{
+    background-color: silver;
+}
+
+.first-sdb_holder > ul{
+    color: black !important;
+}
